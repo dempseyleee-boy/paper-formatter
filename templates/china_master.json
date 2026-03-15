@@ -1,0 +1,56 @@
+{
+  "name": "中国硕士论文",
+  "page": {
+    "paper_size": "A4",
+    "margin": {
+      "top": 2.5,
+      "bottom": 2.5,
+      "left": 3.0,
+      "right": 2.0
+    }
+  },
+  "title": {
+    "font_name": "黑体",
+    "font_size": 22,
+    "bold": true,
+    "alignment": "center"
+  },
+  "heading1": {
+    "font_name": "黑体",
+    "font_size": 16,
+    "bold": true,
+    "alignment": "center",
+    "before_spacing": 24,
+    "after_spacing": 18
+  },
+  "heading2": {
+    "font_name": "黑体",
+    "font_size": 15,
+    "bold": true,
+    "alignment": "left",
+    "before_spacing": 12,
+    "after_spacing": 12
+  },
+  "heading3": {
+    "font_name": "宋体",
+    "font_size": 12,
+    "bold": false,
+    "alignment": "left"
+  },
+  "body": {
+    "font_name": "宋体",
+    "font_size": 12,
+    "line_spacing": 1.5,
+    "alignment": "justify"
+  },
+  "code": {
+    "font_name": "Consolas",
+    "font_size": 10,
+    "border": true,
+    "shading": "#F0F0F0"
+  },
+  "toc": {
+    "include": true,
+    "title": "目 录"
+  }
+}
